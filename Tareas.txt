@@ -1,0 +1,13 @@
+-Menú Interfaz (Inicio, SobreNosotros, Horario, Menu, contactanos)
+
+-Inicio,Sobre Nosotros, "Eventos"(Chef Famoso), PreviewMenu, Lugar-Horarios, contactanos(email-nombres-tel)
+    -Reserva (Formulario)(PopUp)
+
+-Menú Comida(Robar de UberEats)
+
+OPCIONAL
+-Pedir Online
+
+*Direccion: C/Pobladura del Valle, 15 28037
+*WebRef: https://www.homeslicemx.com/
+
