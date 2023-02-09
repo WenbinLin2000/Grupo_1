@@ -5,16 +5,67 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous"> -->
-    <link href="bootstrap.min.css">
-    <link href="bootstrap.bundle.min.js">
+    <!--<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">-->
+    <link rel="stylesheet" href="bootstrap.min.css" href="bootstrap.bundle.min.js">
+    <style>
+        span{
+            text-align: center;
+            vertical-align: bottom;
+        }
+        #a{
+            height: 25px;
+            text-align: center;
+            vertical-align: bottom;
+            font-size: xx-large;
+        }
+        img{
+            margin: 5px;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
-        <img src="" width=100%>
-    </div>
-    <div class="container" style="height: 25px; text-align: center; vertical-align: bottom; font-size: xx-large;">
-        Menu
+        <div id="carouselExample" class="carousel slide">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="sushi1.jfif" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="sushi2.jfif" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="sushi3.jfif" class="d-block w-100" alt="...">
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+      </div>
+    <div class="container" id="a">
+        <div class="row">
+            <span>Menu</span>
+            <div class="col-md-4">
+              <img src="sushi9.jfif" width="80%">
+              <img src="sushi2.jfif" width="80%">
+              <img src="sushi4.jfif" width="80%">  
+            </div>
+            <div class="col-md-4">
+                <img src="sushi8.jfif" width="80%">
+                <img src="sushi5.jfif" width="80%">
+                <img src="sushi6.jfif" width="80%">
+            </div>
+            <div class="col-md-4">
+                <img src="sushi7.jfif" width="80%">
+                <img src="sushi3.jfif" width="80%">
+                <img src="sushi1.jfif" width="80%">
+            </div>
+        </div>
     </div>
 </body>
 </html>
