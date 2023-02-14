@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <link rel="stylesheet" href="Menu.css">
+    <script src="bootstrap.bundle.min.js.js"></script>
+</head>
+<body>
+  <div class="container categorias-esp d-flex justify-content-center">
+    <div class="col-sm12 col-md-12 col-lg-12 col-xl-12 border border-secondary rounded categorias-in border-3">
+      <p class="display-1 fw-bold">Nigiri</p>
+    </div>
+  </div>
+
+  <div class="container ">
+    <div class="cartas row d-flex justify-content-start flex-wrap ">
+      <div class="col-sm12 col-md-6 col-lg-4 col-xl-3">
+        <div class="card" style="width: 18rem;">
+          <img src="Menu/Sushi/Nigiri/Salmon.jpeg" class="card-img-top" alt="Nigiri de Salmon">
+          <div class="card-body">
+            <h5 class="card-title">Nigiri Salm&oacute;n</h5>
+            <p class="card-text">2 unidades</p>
+            <button type="button" class="btn btn-primary mt-1 " data-bs-toggle="modal" data-bs-target="#staticBackdrop">M&aacute;s detalles</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<!-- Modal -->
+<div class="modal fade align-items-center justify-content-center" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="staticBackdropLabel">Nigiri Salm&oacute;n</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img class="modal-content" src="Menu/Sushi/Nigiri/Salmon.jpeg" alt="">
+        <p></p>
+        <p>Arroz de sushi con vinagre y salm&oacute;n.<br>2 unidades</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Understood</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Vertically centered modal -->
+<div class="modal-dialog modal-dialog-centered">
+  ...
+</div>
+
+<!-- Vertically centered scrollable modal -->
+<div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+  ...
+</div>
+<!-- https://getbootstrap.com/docs/5.3/components/modal/ -->
+<!-- https://www.youtube.com/watch?v=0t9Uvi-J0No -->
+</body>
+</html>
