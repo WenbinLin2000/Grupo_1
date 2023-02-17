@@ -2,16 +2,29 @@ span.a{
     text-align: center;
     vertical-align: bottom;
     font-family: serif;
+    font-size: xx-large;
 }
 img{
     margin: 5px;
 }
-#beta{
+img.a{
+    width: 80%;
+}
+img.b{
+    height: 60%;
+}
+iframe{
+    width: 85%;
+    height: 85%;
+}
+.beta{
     background-color: white;
     text-align: center;
     color: black;
     margin-top: 25px;
     margin-bottom: 30px;
+    font-size: medium;
+    text-align: center;
 }
 body { 
     background: url(Imagenes/Fondo2.avif) no-repeat top center fixed; 
@@ -20,41 +33,18 @@ body {
     -o-background-size: cover;
     background-size: cover;
   }
-#alpha{
+.alpha{
     background-color: rgba(0, 0, 0, 0.905);
     color: white;
     text-align: center;
     vertical-align: bottom;
     font-size: xx-large;
 }
-hr{
-    width: 20px;
-    text-align: center;
-    color: black;
-    height: 20px;
-}
-p{
-    font-size: medium;
-    text-align: center;
-}
-#foca{
+.foca{
     margin-top: 10px;
     margin-bottom: 15px;
 }
-#pa{
+.pa{
     color: black;
     font-size: large;
-}
-#pu{
-    margin-top: 0px;
-    margin-left: 0px;
-    margin-bottom: 0px;
-    margin-right: 0px;
-    width: 100%;
-}
-#contactanos{
-    background-color: rgba(128, 128, 128, 0.599);
-    color: black;
-    font-size: medium;
-    margin-top: 6px;
 }
