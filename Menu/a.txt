@@ -49,64 +49,78 @@ MAKI
 Maki Salmón & Aguacate
 €5.50
 8 unidades
+#Maki_Salmon_Aguacate
 
 Maki Salmón & Queso
 €5.50
 8 unidades
+#Maki_Salmon_Queso
 
 Maki Salmon & Trufa
 €5.50
 Creamtruffle y crujiente. 
 8 unidades
+#Maki_Salmon_Trufa
 
 Maki Spicy Salmon
 €5.99
 8 unidades
+#Maki_Spicy_Salmon
 
 Maki Atún & Aguacate
 €5.50
 8 unidades
+#Maki_Atun_Aguacate
 
 Maki Atun & Kimchi
 €5.50
 Creamkimchi y crujiente. 
 8 unidades
+#Maki_Atun_Kimchi
 
 Maki Spicy Atún
 €5.99
 8 unidades
+#Maki_Spicy_Atun
 
 Maki Pez Mantequilla & Trufa
 €5.50
 Creamtruffle y crujiente. 
 8 unidades
+#Maki_Pez_Mantquilla_Trufa
 
 Maki Aguacate & Queso
 €4.50
 8 unidades
+#Maki_Aguacate_Queso
 
 Maki Pepino & Queso
 €4.50
 8 unidades
+#Maki_Pepino_Queso
 
 Maki Gambas & Aguacate
 €5.50
 Mayonesa. 8 unidades
+#Maki_Queso_Aguacate
 
 Maki Pollo Crujiente
 €5.99
 Salsa de anguila y sésamo. 
 8 unidades
+#Maki_Pollo_Crujiente
 
 Maki Tempura Langostino
 €5.99
 Salsa de anguila y sésamo. 
 8 unidades
+#Maki_Tempura_Langostino
 
 Maki Anguila & Aguacate
 €5.99
 Salsa de anguila y sésamo. 
 8 unidades
+#Maki_Anguila_Aguacate
 
 CLASSIC ROLL
 -------------
@@ -115,21 +129,25 @@ Spicy Salmón Crunch Roll
 €7.99
 Salmón, aguacate, spicymayo con shichimi y cebolla frita cubierto de sésamo. 
 8 unidades
+#Classic_Spicy_Salmon
 
 Spicy Atún Crunch Roll
 €7.99
 Atún, aguacate, spicymayo con shichimi y cebolla frita cubierto de sésamo. 
 8 unidades
+#Classic_Spicy_Atun
 
 Spicy Gambas Crunch Roll
 €7.99
 Gambas, aguacate, spicymayo con shichimi y cebolla frita cubierto de sésamo. 
 8 unidades
+#Classic_Gambas
 
 Crazy Salmón Roll
 €7.99
 Salmón, aguacate, mayojapo, cubierto de salsa de anguila y cebolla frita. 
 8 unidades
+#Classic_Salmon_Roll
 
 Crazy Gambas Roll
 €7.99
