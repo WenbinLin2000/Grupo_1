@@ -14,7 +14,7 @@ img{
     margin-bottom: 30px;
 }
 body { 
-    background: url(Imagenes/Fondo1.avif) no-repeat top center fixed; 
+    background: url(Imagenes/Fondo2.avif) no-repeat top center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -41,12 +41,7 @@ p{
     margin-top: 10px;
     margin-bottom: 15px;
 }
-#pe{
-    border:0;
-}
 #pa{
-    background-color: rgba(248, 248, 255, 0.438);
-    opacity: 75%;
     color: black;
     font-size: large;
 }
