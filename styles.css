@@ -1,22 +1,19 @@
-body{
-    background-color: #000000;
+.quieto{
+  position: static;
 }
 .logos{
     border-radius: 20%;
     width: 51px;
     height: 51px;
-    position: static;
 }
 .nav-item {
 float: left;
 text-align: center;
 padding: 2em;
 padding-left: 5em;
-position: static;
 }
 .espacio{
     padding: 2em;
-    position: static;
 }
 /*
 .col-lg-auto {
