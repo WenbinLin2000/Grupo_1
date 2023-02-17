@@ -1,0 +1,65 @@
+span.a{
+    text-align: center;
+    vertical-align: bottom;
+    font-family: serif;
+}
+img{
+    margin: 5px;
+}
+#beta{
+    background-color: white;
+    text-align: center;
+    color: black;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+body { 
+    background: url(Imagenes/Fondo1.avif) no-repeat top center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+#alpha{
+    background-color: rgba(0, 0, 0, 0.905);
+    color: white;
+    text-align: center;
+    vertical-align: bottom;
+    font-size: xx-large;
+}
+hr{
+    width: 20px;
+    text-align: center;
+    color: black;
+    height: 20px;
+}
+p{
+    font-size: medium;
+    text-align: center;
+}
+#foca{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+#pe{
+    border:0;
+}
+#pa{
+    background-color: rgba(248, 248, 255, 0.438);
+    opacity: 75%;
+    color: black;
+    font-size: large;
+}
+#pu{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    width: 100%;
+}
+#contactanos{
+    background-color: rgba(128, 128, 128, 0.599);
+    color: black;
+    font-size: medium;
+    margin-top: 6px;
+}
