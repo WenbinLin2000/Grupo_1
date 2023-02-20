@@ -1,6 +1,6 @@
 -SUSHI-
 
-NIGIRI
+NIGIRI  id:Nigiri
 ----------------------
 Nigiri Salmón
 €3.50
@@ -44,7 +44,7 @@ Salsa anguila y sésamo.
  2 unidades
  #Nigiri_Anguila
 
-MAKI
+MAKI    id:Maki
 ----------
 Maki Salmón & Aguacate
 €5.50
@@ -122,7 +122,7 @@ Salsa de anguila y sésamo.
 8 unidades
 #Maki_Anguila_Aguacate
 
-CLASSIC ROLL
+CLASSIC ROLL    id:Classic_Roll
 -------------
 
 Spicy Salmón Crunch Roll
@@ -141,49 +141,56 @@ Spicy Gambas Crunch Roll
 €7.99
 Gambas, aguacate, spicymayo con shichimi y cebolla frita cubierto de sésamo. 
 8 unidades
-#Classic_Gambas
+#Classic_Spicy_Gambas
 
 Crazy Salmón Roll
 €7.99
 Salmón, aguacate, mayojapo, cubierto de salsa de anguila y cebolla frita. 
 8 unidades
-#Classic_Salmon_Roll
+#Classic_Salmon
 
 Crazy Gambas Roll
 €7.99
 Gambas, aguacate, mayojapo, cubierto de salsa de anguila y cebolla frita. 
 8 unidades
+#Classic_Gambas
 
 Crazy Crab Roll
 €7.99
 Cangrejo, aguacate, mayojapo, cubierto de salsa de anguila y cebolla frita. 
 8 unidades
+#Classic_Crab
 
 Philadelphia Roll
 €7.99
 Salmón, queso crema y aguacate cubierto de cebolla frita. 
 8 unidades
+#Classic_Philadelphia
 
 California Roll
 €7.99
 Surimi, aguacate, pepino y queso crema cubierto de huevas de tobico. 
 8 unidades
+#Classic_California
 
 Mango Roll
 €7.99
 Salmón, mango, queso crema y aguacate cubierto de sésamo. 
 8 unidades
+#Classic_Mango
 
 Langostino Roll
 €8.99
 Tempura langostino, aguacate y mayojapo cubierto de sésamo con salsa anguila. 
 8 unidades
+#Classic_Langostino
 
 -Acomp-
 Takoyaki
 €4.99
 Buñuelos japonesas de masa de crepe rellenos de pulpo con salsa okonomiyaki, mayonesa, alga en polvo y copos de atún seco. 
 4 unidades
+#Takoyaki
 
 Edamame
 €3.99
@@ -233,64 +240,76 @@ Crispy Chicken
 Tiras de pollo súper crujiente acompañado con salsa chili sweets. 
 4 unidades
 
--Sushi_Mix-
+-Sushi_Mix- id=Mix
 
 Atún Lovers Mix (20uds)
 €17.99
 4 nigiri atún 4 maki atún & kimchi 4 maki atún & aguacate 8 spicy atún crunch roll
+#Mix_Atun_Lovers
 
 Salmón Lovers Mix (20uds)
 €17.99
 4 nigiri salmón con queso crema 4 maki salmón & aguacate 4 maki salmón & queso 8 salmón roll
+#Mix_Salmon_Lovers
 
 Gourmet Mix (24uds)
 €19.99
 4 green dragón roll + 4 volcán roll 4 salmón roll + 4 crazy salmon roll 4 maki salmón & aguacate 4 maki atún & aguacate
+#Mix_Gourmet
 
 Tokyo Mix (26uds)
 €21.99
 4 maki salmon & trufa 4 maki salmon & aguacate 4 salmon roll + 4 crazy salmon roll 10 black dragon roll
+#Mix_Tokyo
 
--Temaki-
+-Temaki-   id:Temaki
 Temaki Salmón
 €4.99
 Salmón, queso, aguacate y sésamo. 
 1 unidad
+#Temaki_Salmon
 
 Temaki Atún
 €4.99
 Atún, queso, aguacate y sésamo. 
 1 unidad
+#Temaki_Atun
 
 Temaki Pez Mantequilla
 €4.99
 Pez mantequilla, queso, aguacate y paté de trufa. 
 1 unidad
+#Temaki_Pez_Mantequilla
 
 Temaki Spicy Salmon
 €5.99
 Spicy mayo salmon, aguacate y cebolla frita 
 1 unidad
+#Temaki_Spicy_Salmon
 
 Temaki Spicy Atún
 €5.99
 Spicy mayo atún, aguacate y cebolla frita. 
 1 unidad
+#Temaki_Spicy_Atun
 
 Temaki Chicken Fry
 €5.99
 Pollo crujiente, mayojapo, aguacate, cebolla frita y salsa de anguila. 
 1 unidad
+#Temaki_Chicken
 
 Temaki Ebi Fry
 €5.99
 Tempura langostino, mayojapo, aguacate, cebolla frita y salsa de anguila. 
 1 unidad
+#Temaki_Ebi
 
 Temaki Anguila
 €5.99
 Anguila, queso, aguacate y sésamo. 
 1 unidad
+#Tenaki_Anguila
 
 -Postre-
 Mochi Té Verde
@@ -351,16 +370,20 @@ Salsa Spicy Mayo
 €1.50
 Mayonesa picante
 
--Sashimi-
+-Sashimi- id:Sashimi
 Sashimi de salmón
 €10.00
 Finas rodajas de salmón crudo servidas con salsa de soja, wasabi y jengibre.
 8 piezas.
+#Sashimi_Salmon
 
 Sashimi de atún
 €14.00
 Finas rodajas de atún crudo servidas con salsa de soja, wasabi y jengibre.
 8 piezas.
+#Sashimi_Atun
+
+-platos principales
 
 Sopa Miso
 €3.00
