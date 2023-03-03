@@ -62,7 +62,7 @@ Creamtruffle y crujiente.
 8 unidades
 #Maki_Salmon_Trufa
 
-Maki Spicy Salmon
+Maki Spicy Salmón
 €5.99
 8 unidades
 #Maki_Spicy_Salmon
@@ -102,7 +102,7 @@ Maki Pepino & Queso
 Maki Gambas & Aguacate
 €5.50
 Mayonesa. 8 unidades
-#Maki_Queso_Aguacate
+#Maki_Gambas_Aguacate
 
 Maki Pollo Crujiente
 €5.99
@@ -195,50 +195,60 @@ Buñuelos japonesas de masa de crepe rellenos de pulpo con salsa okonomiyaki, ma
 Edamame
 €3.99
 Habas al vapor con sal.
+#Edamame
 
 Ensalada Wakame
 €3.99
 Ensalada de wakame con sésamo.
+#Wakame
 
 Gyozas Pollo
 €4.50
 Empanadillas japonesas rellenas de carne de pollo y verduras. 
 4 unidades
+#Gyozas
 
 Hagkao Gambas
 €4.99
 Empanadillas japonesas al vapor rellenas de gambas. 
 4 unidades
+#Hagkao
 
 Xialongbao
 €4.50
 Dumplings rellenos de carne de cerdo con verduras variadas. Hechos al vapor. 
 4 unidades
+#Xialongbao
 
 Shumai
 €4.50
 Dumplings rellenos de carne de cerdo, col, cebolla, jengibre y setas shiitake. Hechos al vapor. 
 4 unidades
+#Shumai
 
 Rollitos Primaveras
 €3.99
 Rollo frito relleno de verduras variadas acompañado con salsa agridulce. 
 5 unidades
+#Rollito
 
 Yakitori Pollo
 €4.99
 Brochetas de pollo con salsa teriyaki. 
 2 unidades
+#Yakitori
 
 Ebi Fry
 €6.99
 Tempura de langostinos con panko acompañado con mayonesa. 
 4 unidades
+#Ebi_Fry
 
 Crispy Chicken
 €6.99
 Tiras de pollo súper crujiente acompañado con salsa chili sweets. 
 4 unidades
+#Crispy_Chicken
 
 -Sushi_Mix- id=Mix
 
@@ -316,59 +326,37 @@ Mochi Té Verde
 €2.50
 Harina de arroz con mousse de te verde. 
 1 unidad
+#Mochi_Macha
 
 Mochi Chocolate
 €2.50
 Harina de arroz con mousse de chocolate. 
 1 unidad
+#Mochi_Choco
 
 Mochi Cheesecake & Fresa
 €2.50
 Harina de arroz con mousse de queso y fresa. 
 1 unidad
+#Mochi_ch_Fresa
 
 Mochi Cheesecake & Mango
 €2.50
 Harina de arroz con mousse de queso y mango. 
 1 unidad
+#Mochi_ch_Mango
 
 Mochi Pasion & Mango
 €2.50
 Harina de arroz con mousse de frutas de bosque con mango. 
 1 unidad
+#Mochi_p_Mango
 
 Mochi Cheesecake Frambuesa & Choco Blanco
 €2.50
 Harina de arroz con mousse de frambuesa con queso y chocolate blanco. 
 1 unidad
-
--Salsa-
-Extra Wasabi
-€1.00
-Sobre de wasabi. 
-5 unidades
-
-Extra Jengibre
-€1.00
-Sobre de jengibre. 
-5 unidades
-
-Extra Salsa Soja
-€1.00
-Sobre de soja. 
-5 unidades
-
-Salsa Anguila
-€1.50
-Soja dulce
-
-Salsa Chili Sweets
-€1.50
-Picante dulce
-
-Salsa Spicy Mayo
-€1.50
-Mayonesa picante
+#Mochi_Frambu
 
 -Sashimi- id:Sashimi
 Sashimi de salmón
@@ -388,35 +376,32 @@ Finas rodajas de atún crudo servidas con salsa de soja, wasabi y jengibre.
 Sopa Miso
 €3.00
 sopa preparada a base de caldo dashi, pasta de miso, cebolleta china, tofu y setas.
+#Miso
 
- Ramen
+Ramen
 €7.00
 Ramén, con Tallarines, Huevo, Verduras, Carne de Ternera, Cebollino y Caldo de Pollo.
-
+#Ramen
 
 Arroz frito con huevo
 €4.50
 Arroz Frito con Huevo y Cebollino chino
+#Arroz
 
 Katsudon
 €13.55
 Cuenco de arroz japonés cubierto con una chuleta de cerdo rebozada y verduras.
+#Katsudon
 
 Gyudon
 €13.55
 Cuenco de arroz cubierto con carne de ternera y cebolla confitada en salsa de soja y Onsen tamago.
+#Gyudon
 
 Okonomiyaki Asaha Style
 €13.50
 Panqueque salado japonés elaborado a base de harina, agua, cebolla, repollo, bacon, huevo y gambas. Todo ello cocinado a la plancha.
-
--Bebida-
-Agua mineral(2$), Nestea(2.50$), coca-cola, acuarius, fanta, sprite
-
--Cerveza-
-Mao(2.50), kirin(3.50),asahi(==), sappohro(==)(cerveza japonesa 330ml)
-
-
+#Okonomiyaki
 
 
 
