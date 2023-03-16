@@ -291,7 +291,7 @@ Pez mantequilla, queso, aguacate y paté de trufa.
 1 unidad
 #Temaki_Pez_Mantequilla
 
-Temaki Spicy Salmon
+Temaki Spicy Salmón
 €5.99
 Spicy mayo salmon, aguacate y cebolla frita 
 1 unidad
@@ -380,12 +380,12 @@ sopa preparada a base de caldo dashi, pasta de miso, cebolleta china, tofu y set
 
 Ramen
 €7.00
-Ramén, con Tallarines, Huevo, Verduras, Carne de Ternera, Cebollino y Caldo de Pollo.
+Ramen con Tallarines, huevo, verduras, carne de ternera, cebollino y caldo de pollo.
 #Ramen
 
 Arroz frito con huevo
 €4.50
-Arroz Frito con Huevo y Cebollino chino
+Arroz frito con huevo y cebollino chino
 #Arroz
 
 Katsudon
