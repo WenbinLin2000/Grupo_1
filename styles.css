@@ -10,8 +10,8 @@
 }
 .logos{
   padding-top:25px ;
-  padding-left: 189.7px;
-  padding-right: 189.7px;
+  /*padding-left: 189.7px;
+  padding-right: 189.7px;*/
 }
 .nav-item {
 float: left;
@@ -19,7 +19,18 @@ text-align: center;
 padding: 2em;
 padding-left: 155px;
 }
-
+button{
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+}
+body { 
+  background: url(imagenes/Fondo.jpeg) no-repeat top center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 /*
 .col-lg-auto {
   flex: 0 0 auto;
