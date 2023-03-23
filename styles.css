@@ -1,7 +1,7 @@
 .quieto{
-  position:fixed;
-  background: linear-gradient(290deg,rgb(20, 20, 77),black,black);
-  color: #fff;
+ 
+  /*background: linear-gradient(290deg,rgb(20, 20, 77),black,black);*/
+  padding: 2em;
 }
 .logos img{
     border-radius: 20%;
@@ -9,16 +9,11 @@
     height: 51px;
 }
 .logos{
-  padding-top:25px ;
+  
   /*padding-left: 189.7px;
   padding-right: 189.7px;*/
 }
-.nav-item {
-float: left;
-text-align: center;
-padding: 2em;
-padding-left: 155px;
-}
+
 button{
   position: fixed;
   bottom: 0;
