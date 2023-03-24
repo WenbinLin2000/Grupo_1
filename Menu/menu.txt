@@ -1,0 +1,409 @@
+-SUSHI-
+
+NIGIRI  id:Nigiri
+----------------------
+Nigiri Salmón
+€3.50
+#Nigiri_Salmon
+
+Nigiri Atún
+€3.50
+#Nigiri_Atun
+
+Nigiri Pez Mantequilla
+€3.50
+Paté de trufa
+#Nigiri_Pez_Mantequilla
+
+Nigiri Gambas
+€3.50
+Mayonesa
+#Nigiri_Gambas
+
+Nigiri Salmón Flameado
+€4.50
+Salsa anguila y cebollino.
+ 2 unidades
+ #Nigiri_Salmon_F
+
+Nigiri Atún Flameado
+€4.50
+Salsa anguila y cebollino.
+ 2 unidades
+ #Nigiri_Atun_F
+
+Nigiri Pez Mantequilla Flameado
+€4.50
+Pate de trufa.
+ 2 unidades
+ #Nigiri_Pez_Mantequilla_F
+
+Nigiri Anguila
+€4.99
+Salsa anguila y sésamo.
+ 2 unidades
+ #Nigiri_Anguila
+
+MAKI    id:Maki
+----------
+Maki Salmón & Aguacate
+€5.50
+8 unidades
+#Maki_Salmon_Aguacate
+
+Maki Salmón & Queso
+€5.50
+8 unidades
+#Maki_Salmon_Queso
+
+Maki Salmon & Trufa
+€5.50
+Creamtruffle y crujiente. 
+8 unidades
+#Maki_Salmon_Trufa
+
+Maki Spicy Salmón
+€5.99
+8 unidades
+#Maki_Spicy_Salmon
+
+Maki Atún & Aguacate
+€5.50
+8 unidades
+#Maki_Atun_Aguacate
+
+Maki Atun & Kimchi
+€5.50
+Creamkimchi y crujiente. 
+8 unidades
+#Maki_Atun_Kimchi
+
+Maki Spicy Atún
+€5.99
+8 unidades
+#Maki_Spicy_Atun
+
+Maki Pez Mantequilla & Trufa
+€5.50
+Creamtruffle y crujiente. 
+8 unidades
+#Maki_Pez_Mantquilla_Trufa
+
+Maki Aguacate & Queso
+€4.50
+8 unidades
+#Maki_Aguacate_Queso
+
+Maki Pepino & Queso
+€4.50
+8 unidades
+#Maki_Pepino_Queso
+
+Maki Gambas & Aguacate
+€5.50
+Mayonesa. 8 unidades
+#Maki_Gambas_Aguacate
+
+Maki Pollo Crujiente
+€5.99
+Salsa de anguila y sésamo. 
+8 unidades
+#Maki_Pollo_Crujiente
+
+Maki Tempura Langostino
+€5.99
+Salsa de anguila y sésamo. 
+8 unidades
+#Maki_Tempura_Langostino
+
+Maki Anguila & Aguacate
+€5.99
+Salsa de anguila y sésamo. 
+8 unidades
+#Maki_Anguila_Aguacate
+
+CLASSIC ROLL    id:Classic_Roll
+-------------
+
+Spicy Salmón Crunch Roll
+€7.99
+Salmón, aguacate, spicymayo con shichimi y cebolla frita cubierto de sésamo. 
+8 unidades
+#Classic_Spicy_Salmon
+
+Spicy Atún Crunch Roll
+€7.99
+Atún, aguacate, spicymayo con shichimi y cebolla frita cubierto de sésamo. 
+8 unidades
+#Classic_Spicy_Atun
+
+Spicy Gambas Crunch Roll
+€7.99
+Gambas, aguacate, spicymayo con shichimi y cebolla frita cubierto de sésamo. 
+8 unidades
+#Classic_Spicy_Gambas
+
+Crazy Salmón Roll
+€7.99
+Salmón, aguacate, mayojapo, cubierto de salsa de anguila y cebolla frita. 
+8 unidades
+#Classic_Salmon
+
+Crazy Gambas Roll
+€7.99
+Gambas, aguacate, mayojapo, cubierto de salsa de anguila y cebolla frita. 
+8 unidades
+#Classic_Gambas
+
+Crazy Crab Roll
+€7.99
+Cangrejo, aguacate, mayojapo, cubierto de salsa de anguila y cebolla frita. 
+8 unidades
+#Classic_Crab
+
+Philadelphia Roll
+€7.99
+Salmón, queso crema y aguacate cubierto de cebolla frita. 
+8 unidades
+#Classic_Philadelphia
+
+California Roll
+€7.99
+Surimi, aguacate, pepino y queso crema cubierto de huevas de tobico. 
+8 unidades
+#Classic_California
+
+Mango Roll
+€7.99
+Salmón, mango, queso crema y aguacate cubierto de sésamo. 
+8 unidades
+#Classic_Mango
+
+Langostino Roll
+€8.99
+Tempura langostino, aguacate y mayojapo cubierto de sésamo con salsa anguila. 
+8 unidades
+#Classic_Langostino
+
+-Acomp-
+Takoyaki
+€4.99
+Buñuelos japonesas de masa de crepe rellenos de pulpo con salsa okonomiyaki, mayonesa, alga en polvo y copos de atún seco. 
+4 unidades
+#Takoyaki
+
+Edamame
+€3.99
+Habas al vapor con sal.
+#Edamame
+
+Ensalada Wakame
+€3.99
+Ensalada de wakame con sésamo.
+#Wakame
+
+Gyozas Pollo
+€4.50
+Empanadillas japonesas rellenas de carne de pollo y verduras. 
+4 unidades
+#Gyozas
+
+Hagkao Gambas
+€4.99
+Empanadillas japonesas al vapor rellenas de gambas. 
+4 unidades
+#Hagkao
+
+Xialongbao
+€4.50
+Dumplings rellenos de carne de cerdo con verduras variadas. Hechos al vapor. 
+4 unidades
+#Xialongbao
+
+Shumai
+€4.50
+Dumplings rellenos de carne de cerdo, col, cebolla, jengibre y setas shiitake. Hechos al vapor. 
+4 unidades
+#Shumai
+
+Rollitos Primaveras
+€3.99
+Rollo frito relleno de verduras variadas acompañado con salsa agridulce. 
+5 unidades
+#Rollito
+
+Yakitori Pollo
+€4.99
+Brochetas de pollo con salsa teriyaki. 
+2 unidades
+#Yakitori
+
+Ebi Fry
+€6.99
+Tempura de langostinos con panko acompañado con mayonesa. 
+4 unidades
+#Ebi_Fry
+
+Crispy Chicken
+€6.99
+Tiras de pollo súper crujiente acompañado con salsa chili sweets. 
+4 unidades
+#Crispy_Chicken
+
+-Sushi_Mix- id=Mix
+
+Atún Lovers Mix (20uds)
+€17.99
+4 nigiri atún 4 maki atún & kimchi 4 maki atún & aguacate 8 spicy atún crunch roll
+#Mix_Atun_Lovers
+
+Salmón Lovers Mix (20uds)
+€17.99
+4 nigiri salmón con queso crema 4 maki salmón & aguacate 4 maki salmón & queso 8 salmón roll
+#Mix_Salmon_Lovers
+
+Gourmet Mix (24uds)
+€19.99
+4 green dragón roll + 4 volcán roll 4 salmón roll + 4 crazy salmon roll 4 maki salmón & aguacate 4 maki atún & aguacate
+#Mix_Gourmet
+
+Tokyo Mix (26uds)
+€21.99
+4 maki salmon & trufa 4 maki salmon & aguacate 4 salmon roll + 4 crazy salmon roll 10 black dragon roll
+#Mix_Tokyo
+
+-Temaki-   id:Temaki
+Temaki Salmón
+€4.99
+Salmón, queso, aguacate y sésamo. 
+1 unidad
+#Temaki_Salmon
+
+Temaki Atún
+€4.99
+Atún, queso, aguacate y sésamo. 
+1 unidad
+#Temaki_Atun
+
+Temaki Pez Mantequilla
+€4.99
+Pez mantequilla, queso, aguacate y paté de trufa. 
+1 unidad
+#Temaki_Pez_Mantequilla
+
+Temaki Spicy Salmón
+€5.99
+Spicy mayo salmon, aguacate y cebolla frita 
+1 unidad
+#Temaki_Spicy_Salmon
+
+Temaki Spicy Atún
+€5.99
+Spicy mayo atún, aguacate y cebolla frita. 
+1 unidad
+#Temaki_Spicy_Atun
+
+Temaki Chicken Fry
+€5.99
+Pollo crujiente, mayojapo, aguacate, cebolla frita y salsa de anguila. 
+1 unidad
+#Temaki_Chicken
+
+Temaki Ebi Fry
+€5.99
+Tempura langostino, mayojapo, aguacate, cebolla frita y salsa de anguila. 
+1 unidad
+#Temaki_Ebi
+
+Temaki Anguila
+€5.99
+Anguila, queso, aguacate y sésamo. 
+1 unidad
+#Tenaki_Anguila
+
+-Postre-
+Mochi Té Verde
+€2.50
+Harina de arroz con mousse de te verde. 
+1 unidad
+#Mochi_Macha
+
+Mochi Chocolate
+€2.50
+Harina de arroz con mousse de chocolate. 
+1 unidad
+#Mochi_Choco
+
+Mochi Cheesecake & Fresa
+€2.50
+Harina de arroz con mousse de queso y fresa. 
+1 unidad
+#Mochi_ch_Fresa
+
+Mochi Cheesecake & Mango
+€2.50
+Harina de arroz con mousse de queso y mango. 
+1 unidad
+#Mochi_ch_Mango
+
+Mochi Pasion & Mango
+€2.50
+Harina de arroz con mousse de frutas de bosque con mango. 
+1 unidad
+#Mochi_p_Mango
+
+Mochi Cheesecake Frambuesa & Choco Blanco
+€2.50
+Harina de arroz con mousse de frambuesa con queso y chocolate blanco. 
+1 unidad
+#Mochi_Frambu
+
+-Sashimi- id:Sashimi
+Sashimi de salmón
+€10.00
+Finas rodajas de salmón crudo servidas con salsa de soja, wasabi y jengibre.
+8 piezas.
+#Sashimi_Salmon
+
+Sashimi de atún
+€14.00
+Finas rodajas de atún crudo servidas con salsa de soja, wasabi y jengibre.
+8 piezas.
+#Sashimi_Atun
+
+-platos principales
+
+Sopa Miso
+€3.00
+sopa preparada a base de caldo dashi, pasta de miso, cebolleta china, tofu y setas.
+#Miso
+
+Ramen
+€7.00
+Ramen con Tallarines, huevo, verduras, carne de ternera, cebollino y caldo de pollo.
+#Ramen
+
+Arroz frito con huevo
+€4.50
+Arroz frito con huevo y cebollino chino
+#Arroz
+
+Katsudon
+€13.55
+Cuenco de arroz japonés cubierto con una chuleta de cerdo rebozada y verduras.
+#Katsudon
+
+Gyudon
+€13.55
+Cuenco de arroz cubierto con carne de ternera y cebolla confitada en salsa de soja y Onsen tamago.
+#Gyudon
+
+Okonomiyaki Asaha Style
+€13.50
+Panqueque salado japonés elaborado a base de harina, agua, cebolla, repollo, bacon, huevo y gambas. Todo ello cocinado a la plancha.
+#Okonomiyaki
+
+
+
+
+https://www.ubereats.com/store/sushi-mix/V8AR1WvnQiWsYYHdiv7I8g?diningMode=DELIVERY

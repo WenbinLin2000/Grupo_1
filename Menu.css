@@ -1,0 +1,15 @@
+.cartasMed {
+    width: 18rem;
+}
+
+.cartas div{
+    margin:2%
+}
+
+body { 
+    background: url(Fondo.jpeg) no-repeat top center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
