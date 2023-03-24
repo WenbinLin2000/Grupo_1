@@ -46,11 +46,11 @@ body {
     vertical-align: bottom;
     font-size: xx-large;
 }
-.foca{
-    margin-top: 10px;
-    margin-bottom: 15px;
-}
+
 .pa{
     color: black;
     font-size: large;
+}
+.caro{
+    height: 130px;
 }

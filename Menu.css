@@ -6,6 +6,10 @@
     margin:2%
 }
 
+.fondo{
+    background-color: rgba(0,0,0,0.9);
+}
+
 body { 
     background: url(Fondo.jpeg) no-repeat top center fixed; 
     -webkit-background-size: cover;
