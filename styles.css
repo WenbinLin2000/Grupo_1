@@ -1,12 +1,15 @@
-.quieto{
+.quieto li{
  
   /*background: linear-gradient(290deg,rgb(20, 20, 77),black,black);*/
-  padding: 2em;
+  margin-left: 3em;
+  margin-right: 3em;
+
 }
 .logos img{
     border-radius: 20%;
     width: 51px;
     height: 51px;
+    
 }
 .logos{
   
@@ -14,11 +17,7 @@
   padding-right: 189.7px;*/
 }
 
-button{
-  position: fixed;
-  bottom: 0;
-  left: 50%;
-}
+
 body { 
   background: url(imagenes/Fondo.jpeg) no-repeat top center fixed; 
   -webkit-background-size: cover;
@@ -35,3 +34,4 @@ body {
   flex: 0 0 auto;
   width: 50%;
 }*/
+
