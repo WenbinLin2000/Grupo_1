@@ -11,3 +11,13 @@ OPCIONAL
 *Direccion: C/Pobladura del Valle, 15 28037
 *WebRef: https://www.homeslicemx.com/
 
+
+
+#pu{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    width: 100%;
+}
+ id="alpha"
